@@ -1,0 +1,10 @@
+D:\Repo\RandomCode\My Jarvis\My Jarvis\bin\Debug\My Jarvis.exe.config
+D:\Repo\RandomCode\My Jarvis\My Jarvis\bin\Debug\My Jarvis.exe
+D:\Repo\RandomCode\My Jarvis\My Jarvis\bin\Debug\My Jarvis.pdb
+D:\Repo\RandomCode\My Jarvis\My Jarvis\obj\Debug\My Jarvis.csprojAssemblyReference.cache
+D:\Repo\RandomCode\My Jarvis\My Jarvis\obj\Debug\My_Jarvis.Form1.resources
+D:\Repo\RandomCode\My Jarvis\My Jarvis\obj\Debug\My_Jarvis.Properties.Resources.resources
+D:\Repo\RandomCode\My Jarvis\My Jarvis\obj\Debug\My Jarvis.csproj.GenerateResource.cache
+D:\Repo\RandomCode\My Jarvis\My Jarvis\obj\Debug\My Jarvis.csproj.CoreCompileInputs.cache
+D:\Repo\RandomCode\My Jarvis\My Jarvis\obj\Debug\My Jarvis.exe
+D:\Repo\RandomCode\My Jarvis\My Jarvis\obj\Debug\My Jarvis.pdb
